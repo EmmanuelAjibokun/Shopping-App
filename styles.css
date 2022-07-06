@@ -11,3 +11,17 @@ nav {
   padding-left: 2rem;
   margin-bottom: 1rem;
 }
+
+.container {
+  padding: 1rem;
+}
+
+#itemForm label {
+  display: block;
+  margin-bottom: 1rem;
+}
+#itemForm input {
+  height: 2rem;
+  text-align: center;
+  border: 1px solid #bfbfbf;
+}
