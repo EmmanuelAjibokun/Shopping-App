@@ -25,3 +25,14 @@ nav {
   text-align: center;
   border: 1px solid #bfbfbf;
 }
+
+#quantityInput, #priceInput {
+  width: 3rem;
+}
+
+#addItemButton {
+  border: unset;
+  background: #00805a;
+  color: #fff;
+  padding: 0.5rem;
+}
