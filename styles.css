@@ -36,3 +36,15 @@ nav {
   color: #fff;
   padding: 0.5rem;
 }
+
+#itemDivs {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.item {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  background: #eaeaea;
+  margin-bottom: 00.5rem;
+}
