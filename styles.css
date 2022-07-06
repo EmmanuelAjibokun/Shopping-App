@@ -48,3 +48,22 @@ nav {
   background: #eaeaea;
   margin-bottom: 00.5rem;
 }
+
+.checkbox {
+  height: 100%;
+  width: 2.5rem;
+}
+
+.itemInfo {
+  text-align: center;
+}
+
+.deleteButton {
+  margin: 0 0 0 auto;
+  border: unset;
+  background: #b10000;
+  color: #fff;
+  font-size: 0.8rem;
+  width: 2.5rem;
+  height: 100%;
+}
