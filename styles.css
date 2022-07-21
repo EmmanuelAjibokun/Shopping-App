@@ -67,3 +67,11 @@ nav {
   width: 2.5rem;
   height: 100%;
 }
+
+.purchased {
+  background: #00805a;
+  color: #fff;
+}
+.purchased p {
+  text-decoration: line-through;
+}
